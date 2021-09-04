@@ -40,6 +40,50 @@ img {
   z-index: 1;
 }
 
+.bottom-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* padding: 0 50px; */
+}
+
+.user-name {
+  margin: 0;
+  margin-top: 50px;
+  display: inline-block;
+}
+
+.user-age {
+  font-size: 1.2rem;
+}
+
+.user-location {
+  text-align: center;
+}
+
+.user-stats {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: auto;
+  padding: 20px 50px;
+}
+
+.stat-wrap {
+  width: 100%;
+  border-top: 2px solid #efefef;
+}
+
+.user-stats p {
+  margin: 0;
+}
+
+.stat-num {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
