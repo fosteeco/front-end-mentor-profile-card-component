@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -7,6 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  font-family: 'Kumbh Sans', sans-serif;
 }
 
 .card {
@@ -79,9 +82,20 @@ img {
   margin: 0;
 }
 
+.user-stat {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .stat-num {
   font-weight: bold;
   font-size: 1.5rem;
+}
+
+.stat-desc {
+  opacity: 0.4;
 }
 
 .attribution {
