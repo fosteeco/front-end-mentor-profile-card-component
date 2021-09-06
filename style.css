@@ -61,6 +61,10 @@ img {
   font-size: 1.2rem;
 }
 
+.op-4 {
+  opacity: 0.4;
+}
+
 .user-location {
   text-align: center;
 }
@@ -91,11 +95,12 @@ img {
 
 .stat-num {
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
+  text-transform: uppercase;
 }
 
 .stat-desc {
-  opacity: 0.4;
+  font-size: 0.8rem;
 }
 
 .attribution {
