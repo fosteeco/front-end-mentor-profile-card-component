@@ -11,6 +11,7 @@ body {
   height: 100vh;
   font-family: 'Kumbh Sans', sans-serif;
   overflow: hidden;
+  background-color: hsl(185, 75%, 39%);
 }
 
 .background-img {
@@ -66,6 +67,7 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #fff;
   /* padding: 0 50px; */
 }
 
@@ -125,9 +127,11 @@ img {
   font-size: 11px;
   text-align: center;
   position: fixed;
+  color: #fff;
   bottom: 10px;
 }
 
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: #fff;
+  /* color: hsl(228, 45%, 44%); */
 }
