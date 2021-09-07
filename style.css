@@ -23,12 +23,16 @@ body {
   top: 0;
   left: 0;
   transform: translateY(-50%) translateX(-25%);
+  width: 65%;
+  z-index: -1;
 }
 
 .img-bottom {
   bottom: 0;
   right: 0;
   transform: translateY(50%) translateX(25%);
+  width: 65%;
+  z-index: -1;
 }
 
 .card {
@@ -41,6 +45,7 @@ body {
 .top-card {
   width: 100%;
   position: relative;
+  z-index: 2;
 }
 
 img {
@@ -59,7 +64,7 @@ img {
   border: 6px #fff solid;
   background-color: #fff;
   border-radius: 50%;
-  z-index: 1;
+  z-index: 2;
 }
 
 .bottom-card {
@@ -68,6 +73,7 @@ img {
   justify-content: center;
   align-items: center;
   background-color: #fff;
+  z-index: 2;
   /* padding: 0 50px; */
 }
 
