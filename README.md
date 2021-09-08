@@ -6,7 +6,7 @@ https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
 
 Repo Link :
 
-https://github.com/fosteeco/front-end-mentor-profile-card-component/settings/pages
+https://github.com/fosteeco/front-end-mentor-profile-card-component
 
 Live Preview Link:
 
