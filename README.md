@@ -2,7 +2,7 @@
 
 Challenge Link:
 
-https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-FTgOdFej_
+https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
 
 Repo Link :
 
